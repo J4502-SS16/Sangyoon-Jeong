@@ -51,6 +51,9 @@ h1 {
   -webkit-column-count: 2; /* Chrome, Safari, Opera */
   -moz-column-count: 2; /* Firefox */
   column-count: 2;
+  font-size: 13;
+  font-weight: bold;
+  text-align: center;
 }
 #container {
 	width: 750px;
